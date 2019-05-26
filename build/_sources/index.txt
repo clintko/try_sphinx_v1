@@ -16,7 +16,7 @@ This is a subsubsection
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    demopages/welcome.rst
    demopages/additional.rst
