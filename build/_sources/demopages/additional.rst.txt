@@ -8,3 +8,4 @@ additional
 .. toctree::
 
    addition1.rst
+   addition2.rst
