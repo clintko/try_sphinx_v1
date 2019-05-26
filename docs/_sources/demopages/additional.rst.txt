@@ -1,0 +1,10 @@
+additional
+==========
+
+.. warning::
+
+   This is a warning block
+
+.. toctree::
+
+   addition1.rst
